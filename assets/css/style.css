@@ -1,0 +1,30 @@
+body {
+ 
+ background: url("../images/background.jpg") no-repeat;
+ 
+}
+
+
+.logo {
+
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	text-align: center;
+
+}
+
+
+
+.audio {
+
+text-align: center;
+
+
+}
+
+.container {
+
+ background-color: rgba(245, 245, 245, 0.4);
+
+}
+
