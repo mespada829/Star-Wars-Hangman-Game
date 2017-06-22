@@ -5,4 +5,4 @@
 A Star Wars theme hangman game built using Javascript, HTML5, CSS3 and some bootstrap elements to make the game responsive.
 <br>
 <br>
-<br> Link to game: </b> https://mespada829.github.io/Star-Wars-Hangman-Game/.
+<b> Link to game: </b> https://mespada829.github.io/Star-Wars-Hangman-Game/.
